@@ -1,15 +1,15 @@
-<h1 align="center">Ana Carioni</h1>
-<h3 align="center">Software Engineer in training, working at the intersection of business and technology</h3>
+<h1 align="center">Ana Carolina Casagrande Carioni</h1>
+<h3 align="center">working at the intersection of business and technology</h3>
 
 <p align="center">
-Turning business requirements into technical solutions: APIs, integrations, and product development.
+Turning business requirements into code and scalable solutions
 </p>
 
 ---
 
 ### About
 
-I work in Operations Engineering at Near Location, a Brazilian distributor of HERE Technologies based in Florianópolis, Brazil, where I help translate business needs into working systems: APIs, integrations, and product features, with growing use of AI-assisted tools to speed up delivery.
+I work in Operations Engineering at Near Location, a Brazilian distributor of HERE Technologies based in Florianópolis, where I help turn business needs into code and scalable solutions, with growing use of AI-assisted tools to speed up delivery.
 
 I'm completing two degrees in parallel: Business Administration (UDESC) and Software Engineering (UNINTER). I believe the strongest tech professionals don't just write code, they understand the business problem behind it.
 

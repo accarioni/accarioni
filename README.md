@@ -9,7 +9,7 @@ Turning business requirements into code and scalable solutions
 
 ### About
 
-I work in Operations Engineering at Near Location, a Brazilian distributor of HERE Technologies based in Florianópolis, where I help turn business needs into code and scalable solutions, with growing use of AI-assisted tools to speed up delivery.
+I work as a Software Engineering Intern at Near Location, a Brazilian distributor of HERE Technologies based in Florianópolis, where I help turn business needs into code and scalable solutions, with growing use of AI-assisted tools to speed up delivery.
 
 I'm completing two degrees in parallel: Business Administration (UDESC) and Software Engineering (UNINTER). I believe the strongest tech professionals don't just write code, they understand the business problem behind it.
 
